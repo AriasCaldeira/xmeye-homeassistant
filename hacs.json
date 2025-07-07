@@ -1,0 +1,10 @@
+{
+  "name": "XMeye Integration",
+  "content_in_root": false,
+  "domain": "xmeye",
+  "homeassistant": "2023.0.0",
+  "country": "🇧🇷",
+  "render_readme": true,
+  "codeowners": ["@AriasCaldeira"],
+  "version": "0.1.0"
+}

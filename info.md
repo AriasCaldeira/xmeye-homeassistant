@@ -1,0 +1,1 @@
+Integration for connecting XMeye DVRs and cameras to Home Assistant.

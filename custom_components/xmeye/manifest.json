@@ -1,0 +1,12 @@
+manifest.json
+
+{
+  "domain": "xmeye",
+  "name": "XMeye DVR Camera",
+  "version": "0.1.0",
+  "config_flow": true,
+  "documentation": "https://github.com/seuuser/xmeye",
+  "requirements": ["dvrip==0.4.3", "ha-ffmpeg"],
+  "dependencies": [],
+  "codeowners": ["@seuuser"]
+}
