@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "config_flow": true,
   "documentation": "https://github.com/AriasCaldeira/xmeye",
-  "requirements": ["git+https://github.com/quatanium/python-dvrip.git#egg=dvrip"],
+  "requirements": [],
   "dependencies": [],
   "codeowners": ["@AriasCaldeira"]
 }
