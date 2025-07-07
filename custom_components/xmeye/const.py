@@ -1,1 +1,1 @@
-# Conteúdo simulado de const.py
+DOMAIN = "xmeye"
