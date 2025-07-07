@@ -4,7 +4,10 @@
   "version": "0.1.0",
   "config_flow": true,
   "documentation": "https://github.com/AriasCaldeira/xmeye-homeassistant",
-  "requirements": ["dvrip==0.2.6", "ha-ffmpeg"],
+  "requirements": [
+    "git+https://github.com/quatanium/python-dvrip.git#egg=dvrip",
+    "ha-ffmpeg"
+  ],
   "dependencies": [],
   "codeowners": ["@AriasCaldeira"]
 }
