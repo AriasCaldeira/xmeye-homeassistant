@@ -1,1 +1,10 @@
-# Conteúdo simulado de manifest.json
+{
+  "domain": "xmeye",
+  "name": "XMeye DVR Camera",
+  "version": "0.1.0",
+  "config_flow": true,
+  "documentation": "https://github.com/AriasCaldeira/xmeye",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@AriasCaldeira"]
+}
